@@ -139,6 +139,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SIDRCRES
 
+[Document7]
+DocumentPath=..\temp\JLCSMT_LIB-master\Project Outputs for Miscellaneous Devices LC\Miscellaneous Devices LC.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Core_Board_Pro\Design Rule Check - Monitor_Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
