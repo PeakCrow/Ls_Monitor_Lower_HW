@@ -29,6 +29,7 @@ Core_Board_Pro/Project logs for Core_Board_Pro
 *.chm
 *.user
 *.zip
+*.7z
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
